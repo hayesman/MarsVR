@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "mars-vr-229721",
+  "private_key_id": "2eb32cbff0bec9d829d3f6e5e0d14c681792f8a3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCYYx70+qPCz4Wh\nb7lkOIfcTUoCYuaeh5rg3Ue1b/TrAqcoan2cPzEfqqtXbepoH1lUGYdeTkY0wV1S\n9PRTyn/nVic/cZaLvtWe5sadT491W+WbxetVfTOg2Fyl3fqo6S3CLNTZfiEjoG2l\n7RzrCeuvUnLKZiB/mI21wusgwdN3d2RmW21aiYnRhXWPL26rUINv6om5V/0yuKr8\nlopbRqvmPHxYyn2Gj1xNbQg5x9qfAP0sZ06yhK1+fR0IXp5g7QNFXKiHA6iF5kKf\nDC0pBW/j9iI1fRJbUt5PkGYWskiiEP30Ih7fKqL7PwRoEtUpAPQuPEuM0tibI4X5\nGYfptZmVAgMBAAECggEAMpCtfIfQoDuBMYzjnRxfBJyG4tzTfqYrn9L9UPjJ8dOL\nCQ+xB5A2ajYVLek0n4FLgGsKLqJVjHrfT0Al9MncgDRnyJcV5+AWfWhBXoDAbyZj\nvblCejcV0xkIQSez3ammO+jpZhQCxhIdYDIaZul/UclPetbBkOVbnIUFxXRbiafK\nzW6sLgqMyT8xpRXzjBn3Ur9FU5ZQB3a4C7Dp0igYeN6rgYOvubfYq8crGBoReDMM\nQTGUNQWm9hVutRb9gcUUEbIBVyREzP5JypERN5PmFN4tNmGfisSy2NI86oe2+ULD\n8ztftHmxM/H3xE6bsd6YLw8NuHzZPW8gPt/eWQYofwKBgQDGyz01iR2/Zd9GgGdY\nGGv/0tK5nWC73nw09HgRBzaFq/zzBTeAMqCwcOU4rLcnOd9+oeR0kSdf3i8sxJrt\ndauxTewuJ3N+VCnHaXyylHRDC42ir3l238e0fFDDwfuQyQ495xQo1dYD9bb4MeCW\nh9uPEX06v+hrfeg8nS9lw4zZ1wKBgQDEPTCBKTnMCSEjSc+q9BaLyWteqf/XbL+b\nZapxZ60do+f7y5ltECFteug5mhVKf1XKwA1c2faHJDYIM+xAGtAlXvepVgPHRWB2\nR0juhWpHUUS0U38XOzHpm9AshndzDul2IPIG30g6olmp2nPcnzNGBshqSnCZ1S08\nC34laUJycwKBgB7F3V7JL/qt6Wc/fz/q3+UFHKuxCgVrBm0oHuH77Nu6aPixqQrG\nS4uknkcsrVl8IvW2V+gXhDHZ8hGLCbSSj5Ztyo7GeqFmo+UDllMKmgi65Bz37uSQ\n9Zgh2lrDT471IKhCeiNsHqoUQlOfXPXQaBN4kJskk/T305h2eJzXLZmXAoGAcYeg\n9yh9mpAxjrPWI+YA4TBPIL4jGGN+2o1PtTowyjQYMvEQOyuY2zi+/wwogyf1302K\nrYwf9wE5DTfU1yVsBCLUDzCHERMPAn6tL+kZmlbm85hWr378mlUdc5T7qCIZaNEY\nlGc650kjrIOIgjvMMxgbfHrCeAz/lXxkp4ok+gcCgYEAmHRvY6QX2Kr96OUsDS9l\nwZp3WcSaqigyweKrzLZGLedvT5NH/DK8/rjwtANmzvlTLatHLaHvJboEQMrgsr7Y\nTqFC06td8U7xRR5g0N4XXbsJkjIS68xowrJvPMqdlcINAQEncg4aa64tvtucoHN9\ne0dCoiPoVbYxazkADuGTRNo=\n-----END PRIVATE KEY-----\n",
+  "client_email": "starting-account-ljfvdlq0pc7w@mars-vr-229721.iam.gserviceaccount.com",
+  "client_id": "118166577837493700698",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/starting-account-ljfvdlq0pc7w%40mars-vr-229721.iam.gserviceaccount.com"
+}

@@ -1,0 +1,10 @@
+gs://mars-vr/training_images/sol1448_mastcam_1024crop_1000.jpg
+gs://mars-vr/training_images/sol1448_mastcam_1024crop_1001.jpg
+gs://mars-vr/training_images/sol1448_mastcam_1024crop_1002.jpg
+gs://mars-vr/training_images/sol1448_mastcam_1024crop_1003.jpg
+gs://mars-vr/training_images/sol1448_mastcam_1024crop_1004.jpg
+gs://mars-vr/training_images/sol1448_mastcam_1024crop_1005.jpg
+gs://mars-vr/training_images/sol1448_mastcam_1024crop_1006.jpg
+gs://mars-vr/training_images/sol1448_mastcam_1024crop_1007.jpg
+gs://mars-vr/training_images/sol1448_mastcam_1024crop_1008.jpg
+gs://mars-vr/training_images/sol1448_mastcam_1024crop_1009.jpg

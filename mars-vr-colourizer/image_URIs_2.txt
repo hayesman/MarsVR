@@ -1,0 +1,2 @@
+gs://mars-vr/training_images/sol1448_mastcam_1024crop_1000.jpg
+gs://mars-vr/training_images/sol1448_mastcam_1024crop_1001.jpg
